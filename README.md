@@ -1,6 +1,4 @@
-<div align="center">
-![image](https://github.com/user-attachments/assets/6c61f008-8a89-46f3-9a26-115f7b4d50e4)
-
+![image](https://github.com/user-attachments/assets/b7cf7875-d725-4b64-9681-df3ec809f4ce)
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
