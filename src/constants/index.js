@@ -28,16 +28,9 @@ export const clientReviews = [
     position: 'Student at Vit Bhopal',
     img: 'assets/review1.png',
     review:
-      'Working with Ankush was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Astha was a fantastic experience. She transformed our outdated website into a modern, user-friendly platform. Her attention to detail and commitment to quality are unmatched. Highly recommend her for any web dev projects.',
   },
-  {
-    id: 2,
-    name: 'Satpal Singh',
-    position: 'Head of IT at JCB Motors',
-    img: 'assets/review2.png',
-    review:
-      'Ankush’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our Job site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
-  },
+  
   // {
   //   id: 3,
   //   name: 'John Dohsas',
@@ -58,11 +51,11 @@ export const clientReviews = [
 
 export const myProjects = [
   {
-    title: 'Servicure - Pandemic Assistant application',
-    desc: 'Servicure is a comprehensive health management web application built using the MERN stack (MongoDB, Express.js, React, Node.js). The application offers various features to help users manage their health effectively.',
+    title: 'Vlancing',
+    desc: 'Vlancer, a comprehensive freelancing website offering integrated video calling functionality for seamless client consultant interactions which can support 100+ video calls per day. ',
     subdesc:
-      'Built as a unique Web Application app with Reactjs, Tailwind CSS, Javascript, Nodejs, Expressjs, MongoDb, Servicure is designed for optimal performance and scalability.',
-    href: 'https://github.com/aLamba570/Medi_Plus_health_Assistance.git',
+      'Designed and implemented a full-stack solution, achieving over 90% responsiveness in development aspects. Integrated Jitsi-Meet API for seamless and secure video calling capabilities ensuring 85% uptime within the platform.',
+    href: 'https://github.com/Astha2410/Vlancing.git',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -74,102 +67,102 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'React.js',
+        name: 'Django',
         path: '/assets/react.svg',
       },
       {
         id: 2,
-        name: 'TailwindCSS',
+        name: 'HTML/CSS',
         path: 'assets/nodejs.png',
       },
       {
         id: 3,
-        name: 'TypeScript',
+        name: 'SQLite3',
         path: '/assets/expressjs.png',
       },
       {
         id: 4,
-        name: 'Framer Motion',
+        name: 'JavaScipt',
         path: '/assets/mongo.png',
       },
     ],
   },
-  {
-    title: 'Emotion Detection - Real-Time Emotion Detection',
-    desc: 'An android application that detects human emotions based on the image of human faces. The App is built on an Machine Learning model that is integerated with the android application using Firebase Api.',
-    subdesc:
-      'With this application, users can experience the power of Machine Learning and AI in real-time. The app is built using Java, Firebase, Python, and Tensorflow.',
-    href: 'https://github.com/aLamba570/emotion_detector.git',
-    texture: '/textures/project/project2.mp4',
-    logo: '/assets/project-logo2.png',
-    logoStyle: {
-      backgroundColor: '#13202F',
-      border: '0.2px solid #17293E',
-      boxShadow: '0px 0px 60px 0px #2F6DB54D',
-    },
-    spotlight: '/assets/spotlight2.png',
-    tags: [
-      {
-        id: 1,
-        name: 'Java',
-        path: '/assets/java.png',
-      },
-      {
-        id: 2,
-        name: 'Firebase',
-        path: 'assets/firebase.svg',
-      },
-      {
-        id: 3,
-        name: 'Pytjon',
-        path: '/assets/python.svg',
-      },
-      {
-        id: 4,
-        name: 'tensorflow',
-        path: '/assets/tensorflow.svg',
-      },
-    ],
-  },
-  {
-    title: 'CarePulse - Health Management System',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
-    subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: '',
-    texture: '/textures/project/project3.mp4',
-    logo: '/assets/project-logo3.png',
-    logoStyle: {
-      backgroundColor: '#60f5a1',
-      background:
-        'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
-      border: '0.2px solid rgba(208, 213, 221, 1)',
-      boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
-    },
-    spotlight: '/assets/spotlight3.png',
-    tags: [
-      {
-        id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
-      },
-      {
-        id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
-      },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
-    ],
-  },
+  // {
+  //   title: 'Emotion Detection - Real-Time Emotion Detection',
+  //   desc: 'An android application that detects human emotions based on the image of human faces. The App is built on an Machine Learning model that is integerated with the android application using Firebase Api.',
+  //   subdesc:
+  //     'With this application, users can experience the power of Machine Learning and AI in real-time. The app is built using Java, Firebase, Python, and Tensorflow.',
+  //   href: 'https://github.com/aLamba570/emotion_detector.git',
+  //   texture: '/textures/project/project2.mp4',
+  //   logo: '/assets/project-logo2.png',
+  //   logoStyle: {
+  //     backgroundColor: '#13202F',
+  //     border: '0.2px solid #17293E',
+  //     boxShadow: '0px 0px 60px 0px #2F6DB54D',
+  //   },
+  //   spotlight: '/assets/spotlight2.png',
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: 'Java',
+  //       path: '/assets/java.png',
+  //     },
+  //     {
+  //       id: 2,
+  //       name: 'Firebase',
+  //       path: 'assets/firebase.svg',
+  //     },
+  //     {
+  //       id: 3,
+  //       name: 'Pytjon',
+  //       path: '/assets/python.svg',
+  //     },
+  //     {
+  //       id: 4,
+  //       name: 'tensorflow',
+  //       path: '/assets/tensorflow.svg',
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: 'CarePulse - Health Management System',
+  //   desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+  //   subdesc:
+  //     'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
+  //   href: '',
+  //   texture: '/textures/project/project3.mp4',
+  //   logo: '/assets/project-logo3.png',
+  //   logoStyle: {
+  //     backgroundColor: '#60f5a1',
+  //     background:
+  //       'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+  //     border: '0.2px solid rgba(208, 213, 221, 1)',
+  //     boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+  //   },
+  //   spotlight: '/assets/spotlight3.png',
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: 'React.js',
+  //       path: '/assets/react.svg',
+  //     },
+  //     {
+  //       id: 2,
+  //       name: 'TailwindCSS',
+  //       path: 'assets/tailwindcss.png',
+  //     },
+  //     {
+  //       id: 3,
+  //       name: 'TypeScript',
+  //       path: '/assets/typescript.png',
+  //     },
+  //     {
+  //       id: 4,
+  //       name: 'Framer Motion',
+  //       path: '/assets/framer.png',
+  //     },
+  //   ],
+  // },
   // {
   //   title: 'Horizon - Online Banking Platform',
   //   desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
