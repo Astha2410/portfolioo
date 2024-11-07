@@ -56,7 +56,7 @@ export const myProjects = [
     subdesc:
       'Designed and implemented a full-stack solution, achieving over 90% responsiveness in development aspects. Integrated Jitsi-Meet API for seamless and secure video calling capabilities ensuring 85% uptime within the platform.',
     href: 'https://github.com/Astha2410/Vlancing.git',
-    texture: '/textures/project/project1.mp4',
+    texture: '/textures/project/video.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
